@@ -1,0 +1,1 @@
+console.log("Workshop 1 completed");
