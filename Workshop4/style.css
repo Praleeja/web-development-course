@@ -1,0 +1,12 @@
+.highlight {
+    color: red;
+    font-weight: bold;
+}
+
+.animal-heading {
+    color: green;
+}
+
+.image-highlight {
+    border: 3px solid orange;
+}
